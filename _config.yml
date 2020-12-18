@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /WhatATheme/assets/images/agincourt.jpg #meta.jpg
+heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,7 +43,7 @@ disqus-shortname: chadefaux
 # Name of the Author
 author-name: Thomas Chadefaux
 # URL for the Image of the Author
-author-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/2880px-Schlacht_von_Azincourt.jpg
+author-image: /WhatATheme/assets/images/chadefauxERC.jpg
 # 60 Words About the Author
 author-about: I am an Assistant Professor of Political Science at Trinity College Dublin. Previously, I have been a visiting assistant professor in the department of political science at the University of Rochester (2009-10) and a postdoctoral researcher at ETH Zurich. I received an M.A. in international politics from the Graduate Institute of International Studies in Geneva (2001-2003), and an M.A. and Ph.D. in political science (world politics) from the University of Michigan (2004-2009). In my dissertation, I studied bargaining models of international negotiations and asked when and why states fail to reach an agreement that would avoid the risks and costs of war. My current research focuses on the causes of interstate conflict and on their prediction. In particular, I rely on large amounts of fine-grained spatial and temporal data (e.g., newspapers, satellite images, financial markets) to reveal early warning signals for war. I also study the geographic aspects of civil wars. In addition, my interests extend beyond political science to sociology and evolutionary game theory.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
