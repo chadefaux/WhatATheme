@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Thomas Chadefaux
 # Description of the Site
-description: {}
+description: 
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/agincourt.jpg #meta.jpg
 # Keywords of the Site
