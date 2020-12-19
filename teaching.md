@@ -10,7 +10,7 @@ title: Teaching
      - [2020](POU33011_2020_index.html)
      - [pre-2020](POU33011/2019)
      
-- Capstone - Forecasting Conflit
+- Capstone: Forecasting Conflit
      - [Lectures](capstone_lectures.html)        
 
 - Brown in Dublin: Contemporary Global Politics
