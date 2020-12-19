@@ -1,4 +1,6 @@
 ---
-title: Research
-layout: page
+layout: project
+title: Projects
 ---
+
+test
