@@ -4,13 +4,13 @@ layout: page
 title: Teaching
 ---
 
-
-
 - POU33011: Research Methods for Political Science A
+     
      - [2020](POU33011_2020_index.html)
      - [pre-2020](POU33011/2019)
      
 - Capstone: Forecasting Conflit
+     
      - [Lectures](capstone_lectures.html)        
 
 - Brown in Dublin: Contemporary Global Politics
