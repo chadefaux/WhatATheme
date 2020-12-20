@@ -10,12 +10,12 @@ layout: compress
 <body>
     {% include navbar.html %}
 
-    <section class="hero is-fullheight" id="blog">
+    <section class="hero is-fullheight" id="publication">
         <div class="hero-body">
         </div>
         <div id="results-container"></div>
         <!--publication Cards Section-->
-        {% for post in site.posts %}
+        {% for post in site.publications %}
             {% include publication-card.html %}
         {% endfor %}
         </div>
