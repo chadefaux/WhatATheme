@@ -1,4 +1,5 @@
 ---
+layout:post
 name: Jane Doe
 position: Developer
 ---
