@@ -1,6 +1,6 @@
 ---
 #layout: project
-layout: publication
+layout: blog2
 title: Publications
 ---
 
