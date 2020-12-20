@@ -65,6 +65,8 @@ plugins:
 # Permalink
 permalink: "blog/:title"
 
+collections:
+  - publications
     
 # Compress
 compress_html:
