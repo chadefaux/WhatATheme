@@ -1,6 +1,6 @@
 ---
 #layout: project
-layout: page
+layout: project
 title: Teaching
 ---
 
