@@ -64,9 +64,7 @@ plugins:
 
 # Permalink
 permalink: "blog/:title"
-publications:
-    output: true
-    
+
     
 # Compress
 compress_html:
