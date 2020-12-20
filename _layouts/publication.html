@@ -16,8 +16,8 @@ layout: compress
         <div id="results-container"></div>
         <!--publication Cards Section-->
         {% for pub in site.publications %}
-  <h2>{{ pub.name }} - {{ pub.position }}</h2>
-  <p>{{ staff_member.content | markdownify }}</p>
+        {% include publication-card.html %}
+
 {% endfor %}
         </div>
     </section>
