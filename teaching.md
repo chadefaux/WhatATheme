@@ -1,6 +1,6 @@
 ---
 #layout: project
-layout: project
+layout: default
 title: Teaching
 ---
 
