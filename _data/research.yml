@@ -96,8 +96,8 @@
   image: assets/images/jpr2014.png
   description:  "Featured in The New York Times. <br> Best visualization award 2014, Journal of Peace Research.
 <br>Best paper Award, Internet, Politics, Policy Conference, Oxford, 2012."
-- name: JPR2014
-  link: "https://journals.sagepub.com/doi/abs/10.1177/0022343313507302"
+- name: plos2012
+  link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030902"
   title: "The rationality of prejudices"
   author: "Chadefaux, T. and Helbing, D"
   year: 2012
