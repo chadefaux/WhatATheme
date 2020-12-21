@@ -68,7 +68,7 @@
   number: 3
   pages: "pp. 735-781"
   content: 
-  image: assets/images/dataScience.jpg
+  image: assets/images/jsp.png
   description:   
 - name: JPR2014
   link: "https://journals.sagepub.com/doi/abs/10.1177/0022343313507302"
@@ -80,7 +80,7 @@
   number: 1
   pages: "pp. 5-18"
   content: 
-  image: assets/images/dataScience.jpg
+  image: assets/images/jpr2014.jpg
   description:  "Featured in The New York Times. <br> Best visualization award 2014, Journal of Peace Research.
 <br>Best paper Award, Internet, Politics, Policy Conference, Oxford, 2012."
 
