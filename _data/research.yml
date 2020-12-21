@@ -107,6 +107,19 @@
   content: 
   image: assets/images/international-theory.jpg
   description:  ""
+- name: plos2010
+  link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013471"
+  title: "How wealth accumulation can promote cooperation"
+  author: "Chadefaux, T. and Helbing, D"
+  year: 2010
+  journal: "PLoS One"
+  volume: 5
+  number: 10
+  pages: ""
+  content: 
+  image: assets/images/plos2010.png
+  description:  ""
+
 
 
 
