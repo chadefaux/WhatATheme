@@ -1,10 +1,10 @@
 - name: pub1
   link: 
-  title: What the enemy knows
+  title: "**Chadefaux, T.**, 2020. What the enemy knows: Common and the rationality of war. *British Journal of Political Science*, 50(4), pp.1593-1607."
   author: Thomas Chadefaux
-  content: blabla
+  content: 
   image: assets/images/bjpsChadefaux.png
-  description: mybla
+  description: 
 - name: pub2
   link: 
   title: What the enemy knows
