@@ -47,7 +47,7 @@
   image: assets/images/JITG.jpeg
   description:   
 - name: DS2017
-  link: ""
+  link: "https://content.iospress.com/articles/data-science/ds002"
   title: "Conflict Forecasting and its Limits"
   author: Chadefaux, T
   year: 2017
