@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cookies
+title: Research
 ---
 
 {% for pub in site.publications %}
