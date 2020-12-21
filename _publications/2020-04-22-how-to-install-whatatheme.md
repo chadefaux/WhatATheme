@@ -1,5 +1,6 @@
 ---
-title: How to Install and use WhatATheme?
+title: "publication 1"
+author: "Thomas Chadefaux"
 layout: post
 publication-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
