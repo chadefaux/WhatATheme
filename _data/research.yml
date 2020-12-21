@@ -44,7 +44,7 @@
   number: 2
   pages: "pp. 132-153"
   content: 
-  image: assets/images/JITG.jpeg
+  image: assets/images/JITP.jpeg
   description:   
 - name: DS2017
   link: "https://content.iospress.com/articles/data-science/ds002"
@@ -70,19 +70,6 @@
   content: 
   image: assets/images/jsp.png
   description:   
-- name: JPR2014
-  link: "https://journals.sagepub.com/doi/abs/10.1177/0022343313507302"
-  title: "Early warning signals for war in the news"
-  author: "Chadefaux, T"
-  year: 2014
-  journal: "Journal of Peace Research"
-  volume: 51
-  number: 1
-  pages: "pp. 5-18"
-  content: 
-  image: assets/images/jpr2014.png
-  description:  "Featured in The New York Times. <br> Best visualization award 2014, Journal of Peace Research.
-<br>Best paper Award, Internet, Politics, Policy Conference, Oxford, 2012."
 - name: JPR2014
   link: "https://journals.sagepub.com/doi/abs/10.1177/0022343313507302"
   title: "Early warning signals for war in the news"
