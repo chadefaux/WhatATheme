@@ -1,6 +1,6 @@
 - name: bjps2020
   link: 
-  title: "What the enemy knows: Common and the rationality of war."
+  title: "What the enemy knows: Common and the rationality of war"
   author: Thomas Chadefaux
   year: 2020
   journal: British Journal of Political Science
@@ -10,11 +10,15 @@
   content: 
   image: assets/images/bjpsChadefaux.png
   description: 
-- name: pub2
+- name: II2019
   link: 
-  title: What the enemy knows
-  author: Thomas Chadefaux
-  content: blabla
-  image: assets/images/bjps.jpg
-  description: mybla
-
+  title: "Nowhere to go? Why do some civil wars generate more refugees than others?"
+  author: Turkoglu, O. and **Chadefaux, T.**
+  year: 2019
+  journal: International Interactions
+  volume: 45
+  number: 2
+  pages: "pp. 401-420"
+  content: 
+  image: assets/images/bjpsChadefaux.png
+  description: 
