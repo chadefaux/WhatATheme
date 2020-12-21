@@ -8,32 +8,32 @@ subtitle: "(week 2: topics in International Security)"
 
 ### Monday: War in our Genes
 
-[Handout](BrownInDublin/War_in_our_Genes_handout.html)
+[Handout](../assets/files/teaching/BrownInDublin/War_in_our_Genes_handout.html)
 
-[Slides](BrownInDublin/War_in_our_Genes_slides.html)
+[Slides](../assets/files/teaching/BrownInDublin/War_in_our_Genes_slides.html)
 
 ### Tuesday: Forecasting Conflict
 
-[Handout](BrownInDublin/ForecastingConflict_handout.html)
+[Handout](../assets/files/teaching/BrownInDublin/ForecastingConflict_handout.html)
 
-[Slides](BrownInDublin/ForecastingConflict_slides.html)
+[Slides](../assets/files/teaching/BrownInDublin/ForecastingConflict_slides.html)
 
 
 ### Wednesday: Bargaining and Conflict
 
-[Handout](BrownInDublin/bargainingAndConflict_handout.html)
+[Handout](../assets/files/teaching/BrownInDublin/bargainingAndConflict_handout.html)
 
-[Slides](BrownInDublin/bargainingAndConflict_slides.html)
+[Slides](../assets/files/teaching/BrownInDublin/bargainingAndConflict_slides.html)
 
 
 ### Thursday: Terrorism
 
-[Handout](BrownInDublin/terrorism_handout.html)
+[Handout](../assets/files/teaching/BrownInDublin/terrorism_handout.html)
 
-[Slides](BrownInDublin/terrorism_slides.html)
+[Slides](../assets/files/teaching/BrownInDublin/terrorism_slides.html)
 
 ### Friday: Civil Wars
 
-[Handout](BrownInDublin/civilWars_handout.html)
+[Handout](../assets/files/teaching/BrownInDublin/civilWars_handout.html)
 
-[Slides](BrownInDublin/civilWars_slides.html)
+[Slides](../assets/files/teaching/BrownInDublin/civilWars_slides.html)

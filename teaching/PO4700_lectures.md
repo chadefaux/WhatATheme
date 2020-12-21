@@ -9,59 +9,59 @@ layout: page
 
 ### Lecture 1: War in our Genes
 
-[Handout](assets/files/teaching/PO4700/War_in_our_Genes_handout.html)
+[Handout](../assets/files/teaching/PO4700/War_in_our_Genes_handout.html)
 
-[Slides](assets/files/teaching/PO4700/War_in_our_Genes_slides.html)
+[Slides](../assets/files/teaching/PO4700/War_in_our_Genes_slides.html)
 
 ### Lecture 2: Forecasting Conflict
 
-[Handout](assets/files/teaching/PO4700/Forecasting_Conflict_handout.html)
+[Handout](../assets/files/teaching/PO4700/Forecasting_Conflict_handout.html)
 
-[Slides](assets/files/teaching/PO4700/Forecasting_Conflict_slides.html)
+[Slides](../assets/files/teaching/PO4700/Forecasting_Conflict_slides.html)
 
 
 ### Lecture 3: Bargaining and Conflict
 
-[Handout](assets/files/teaching/PO4700/bargainingAndConflict_handout.html)
+[Handout](../assets/files/teaching/PO4700/bargainingAndConflict_handout.html)
 
-[Slides](assets/files/teaching/PO4700/bargainingAndConflict_slides.html)
+[Slides](../assets/files/teaching/PO4700/bargainingAndConflict_slides.html)
 
 ### Lecture 4: Domestic Politics and Conflict
 
-[Handout](assets/files/teaching/PO4700/DomesticPolitics_handout.html)
+[Handout](../assets/files/teaching/PO4700/DomesticPolitics_handout.html)
 
-[Slides](assets/files/teaching/PO4700/DomesticPolitics_slides.html)
+[Slides](../assets/files/teaching/PO4700/DomesticPolitics_slides.html)
 
 
 ### Lecture 5: Economic Interdependence and Conflict
 
-[Handout](assets/files/teaching/PO4700/EconInterdependence_handout.html)
+[Handout](../assets/files/teaching/PO4700/EconInterdependence_handout.html)
 
-[Slides](assets/files/teaching/PO4700/EconInterdependence_slides.html)
+[Slides](../assets/files/teaching/PO4700/EconInterdependence_slides.html)
 
 
 ### Lecture 6: Conflict Outcomes
 
-[Handout](assets/files/teaching/PO4700/conflictOutcomes_handout.html)
+[Handout](../assets/files/teaching/PO4700/conflictOutcomes_handout.html)
 
-[Slides](assets/files/teaching/PO4700/conflictOutcomes.html)
+[Slides](../assets/files/teaching/PO4700/conflictOutcomes.html)
 
 ### *Week 7: Reading Week*
 
 
 ### Lecture 8: Terrorism
 
-[Handout](assets/files/teaching/PO4700/terrorism_handout.html)
+[Handout](../assets/files/teaching/PO4700/terrorism_handout.html)
 
-[Slides](assets/files/teaching/PO4700/terrorism_slides.html)
+[Slides](../assets/files/teaching/PO4700/terrorism_slides.html)
 
 ### Lectures 9 & 10: Civil Wars
 
-[Handout](assets/files/teaching/PO4700/civilWars_handout.html)
+[Handout](../assets/files/teaching/PO4700/civilWars_handout.html)
 
-[Slides](assets/files/teaching/PO4700/civilWars_slides.html)
+[Slides](../assets/files/teaching/PO4700/civilWars_slides.html)
 
 
 ### Lecture 12: Forecasting challenge and review
 
-[Slides](assets/files/teaching/PO4700/review.html)
+[Slides](../assets/files/teaching/PO4700/review.html)
