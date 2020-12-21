@@ -18,8 +18,13 @@
     <h1 class="title is-size-4-touch">{{project.title}}</h1>
     <div class="content has-text-grey">
       <!---<h1 class="title has-text-black is-size-4">{{ project.name }}</h1>--->
-      {{ project.description | truncate: 300 | strip_html | strip_newlines | strip | escape }}.
-      {{ project.description | truncate: 300 | strip_html | strip_newlines | strip | escape }}
+      {{ project.author | truncate: 300 | strip_html | strip_newlines | strip | escape }}.
+      {{ project.year | truncate: 300 | strip_html | strip_newlines | strip | escape }}.
+      {{ project.title | truncate: 300 | strip_html | strip_newlines | strip | escape }}.
+      {{ project.journal | truncate: 300 | strip_html | strip_newlines | strip | escape }}
+      {{ project.volume | truncate: 300 | strip_html | strip_newlines | strip | escape }}({{ project.number | truncate: 300 | strip_html | strip_newlines | strip | escape }}).
+      {{ project.pages | truncate: 300 | strip_html | strip_newlines | strip | escape }}
+
     </div>
   </div>
 </a>
