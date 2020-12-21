@@ -3,8 +3,10 @@ title: "Capstone - Forecasting Conflict"
 layout: page
 ---
 
-<br>
-<br>
+# [Syllabus](assets/files/teaching/Capstone/syllabus_capstoneForecasting)
+
+
+# Lectures
 
 * [Basic Logit/Probit models & Replication Goldstein](Capstone/logit.html)
 * [Basic scraping](Capstone/basicScraping.html)
