@@ -1,19 +1,24 @@
 - name: Research Methods for Political Science A
   code: POU33011 
   level: Undergraduate
+  image:
 - name: "Capstone: Forecasting Conflict"
   code: POU4400
   level: Undergraduate
+  image:
 - name: Quantitative Methods I
   level: PhD
   code: "PO 7001"
   link: "PO7001_2020_index.html"
+  image:
 - name: Contemporary International Relations
   code: PO4700
   level: undergraduate
   link: "PO4700_lectures.html"
+  image:
 - name: Quantitative Methods II
   code: PO7005
   link: "https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0"
 - name: "Brown in Dublin: Contemporary Global Politics"
   link: "brownInDublin_lectures.html"
+  image:
