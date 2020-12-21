@@ -58,6 +58,19 @@
   content: 
   image: assets/images/dataScience.jpg
   description:   
+- name: JSP2017
+  link: "https://content.iospress.com/articles/data-science/ds002"
+  title: "Saving human lives: What complexity science and information systems can contribute"
+  author: "Helbing, D., Brockmann, D., Chadefaux, T., Donnay, K., Blanke, U., Woolley-Meza, O., Moussaid, M., Johansson, A., Krause, J., Schutte, S. and Perc, M""
+  year: 2015
+  journal: "Journal of Statistical Physics"
+  volume: 158
+  number: 3
+  pages: "pp. 735-781"
+  content: 
+  image: assets/images/dataScience.jpg
+  description:   
+
 
 
 
