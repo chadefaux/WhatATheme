@@ -61,7 +61,7 @@
 - name: JSP2017
   link: "https://content.iospress.com/articles/data-science/ds002"
   title: "Saving human lives: What complexity science and information systems can contribute"
-  author: "Helbing, D., Brockmann, D., Chadefaux, T., Donnay, K., Blanke, U., Woolley-Meza, O., Moussaid, M., Johansson, A., Krause, J., Schutte, S. and Perc, M""
+  author: "Helbing, D., Brockmann, D., Chadefaux, T., Donnay, K., Blanke, U., Woolley-Meza, O., Moussaid, M., Johansson, A., Krause, J., Schutte, S. and Perc, M"
   year: 2015
   journal: "Journal of Statistical Physics"
   volume: 158
@@ -70,6 +70,21 @@
   content: 
   image: assets/images/dataScience.jpg
   description:   
+- name: JPR2014
+  link: ""
+  title: "Early warning signals for war in the news"
+  author: "Chadefaux, T"
+  year: 2014
+  journal: "Journal of Peace Research"
+  volume: 51
+  number: 1
+  pages: "pp. 5-18"
+  content: 
+  image: assets/images/dataScience.jpg
+  description:  "Featured in The New York Times. <br> Best visualization award 2014, Journal of Peace Research.
+<br>Best paper Award, Internet, Politics, Policy Conference, Oxford, 2012."
+
+
 
 
 
