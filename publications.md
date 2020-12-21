@@ -1,11 +1,9 @@
 ---
-title: test
+title: Publications
 layout: page
 ---
 
-# Publications
-
-**Chadefaux, T.**, 2020. What the enemy knows: Common and the rationality of war. *British Journal of Political Science*, 50(4), pp.1593-1607.
+[**Chadefaux, T.**, 2020. What the enemy knows: Common and the rationality of war. *British Journal of Political Science*, 50(4), pp.1593-1607.](assets/css/style.scss)
 
 Turkoglu, O. and **Chadefaux, T.**, 2019. Nowhere to go? Why do some civil wars generate more refugees than others?. *International Interactions*, 45(2), pp.401-420.
 
