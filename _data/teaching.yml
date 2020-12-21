@@ -9,23 +9,24 @@
   level: Undergraduate
   image: assets/images/capstone.png
   description: 
-  link: "capstone"
+  link: "teaching/capstone"
 - name: Quantitative Methods I
   level: PhD
   code: "PO 7001"
-  link: "PO7001_2020_index.html"
-  image:
-  description: 
-- name: Contemporary International Relations
-  code: PO4700
-  level: undergraduate
-  link: "PO4700_lectures.html"
+  link: "teaching/PO7001"
   image:
   description: 
 - name: Quantitative Methods II
   code: PO7005
   link: "https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0"
+  description:
+- name: Contemporary International Relations
+  code: PO4700
+  level: undergraduate
+  link: "teaching/PO4700"
+  image:
   description: 
+ 
 - name: "Brown in Dublin: Contemporary Global Politics"
   link: "brownInDublin_lectures.html"
   image:
