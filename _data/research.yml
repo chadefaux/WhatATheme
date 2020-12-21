@@ -1,5 +1,5 @@
 - name: bjps2020
-  link: 
+  link: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-the-enemy-knows-common-knowledge-and-the-rationality-of-war/B6AEABE7CECADCD0C46EB62BC8B6354A#"
   title: "What the enemy knows: Common and the rationality of war"
   author: Chadefaux, T.
   year: 2020
@@ -46,6 +46,19 @@
   content: 
   image: assets/images/JITG.jpeg
   description:   
+- name: DS2017
+  link: ""
+  title: "Conflict Forecasting and its Limits"
+  author: Chadefaux, T
+  year: 2017
+  journal: "Data Science"
+  volume: 1
+  number: 1-2
+  pages: "pp. 7-17"
+  content: 
+  image: assets/images/dataScience.jpg
+  description:   
+
 
 
 
