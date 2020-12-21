@@ -11,7 +11,7 @@
   image: assets/images/bjpsChadefaux.png
   description: 
 - name: II2019
-  link: 
+  link: "https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1554571"
   title: "Nowhere to go? Why do some civil wars generate more refugees than others?"
   author: Turkoglu, O. and **Chadefaux, T.**
   year: 2019
@@ -20,5 +20,5 @@
   number: 2
   pages: "pp. 401-420"
   content: 
-  image: assets/images/bjpsChadefaux.png
+  image: assets/images/ii.png
   description: 

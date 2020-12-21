@@ -22,7 +22,7 @@
       {{ project.author | truncate: 200 | strip_html | strip_newlines | strip | escape }}.
       {{ project.year | truncate: 200 | strip_html | strip_newlines | strip | escape }}.
       {{ project.title | truncate: 200 | strip_html | strip_newlines | strip | escape }}.
-      {{ project.journal | truncate: 200 | strip_html | strip_newlines | strip | escape }}
+      <i>{{ project.journal | truncate: 200 | strip_html | strip_newlines | strip | escape }}</i>
       {{ project.volume | truncate: 200 | strip_html | strip_newlines | strip | escape }}({{ project.number | truncate: 300 | strip_html | strip_newlines | strip | escape }}).
       {{ project.pages | truncate: 200 | strip_html | strip_newlines | strip | escape }}
 </h6>
