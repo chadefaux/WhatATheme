@@ -1,5 +1,5 @@
 ---
 layout: teaching
-title: Publications
+title: Teaching
 ---
 
