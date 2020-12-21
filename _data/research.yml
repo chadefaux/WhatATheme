@@ -22,3 +22,30 @@
   content: 
   image: assets/images/ii.png
   description: 
+- name: JPR2017
+  link: "https://journals.sagepub.com/doi/abs/10.1177/0022343316687615"
+  title: "Market anticipations of conflict onsets"
+  author: Chadefaux, T.
+  year: 2017
+  journal: Journal of Peace Research
+  volume: 54
+  number: 2
+  pages: "pp. 313-327"
+  content: 
+  image: assets/images/jpr2017.png
+  description:   
+- name: JITP2017
+  link: ""
+  title: "Communication power struggles on social media: A case study of the 2011–12 Russian protests"
+  author: Spaiser, V., Chadefaux, T., Donnay, K., Russmann, F. and Helbing, D.
+  year: 2017
+  journal: "Journal of Information Technology & Politics"
+  volume: 14
+  number: 2
+  pages: "pp. 132-153"
+  content: 
+  image: assets/images/jpr2017.png
+  description:   
+
+
+
