@@ -1,5 +1,5 @@
 ---
 layout: publication
-title: Projects
+title: Publications
 ---
 
