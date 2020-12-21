@@ -5,7 +5,7 @@
 - name: "Capstone: Forecasting Conflict"
   code: POU4400
   level: Undergraduate
-  image:
+  image: assets/images/capstone.png
 - name: Quantitative Methods I
   level: PhD
   code: "PO 7001"
