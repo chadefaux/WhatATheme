@@ -95,6 +95,19 @@
   content: 
   image: assets/images/plos2012.png
   description:  ""
+- name: IT2011
+  link: "https://www.cambridge.org/core/journals/international-theory/article/abs/bargaining-over-power-when-do-shifts-in-power-lead-to-war/43BB13DF2F182E3E8759D8A5A31C4DF7"
+  title: "Bargaining over power: When do shifts in power lead to war?"
+  author: "Chadefaux, T"
+  year: 2011
+  journal: "International Theory"
+  volume: 3
+  number: 2
+  pages: "pp. 228-253"
+  content: 
+  image: assets/images/international-theory.jpg
+  description:  ""
+
 
 
 
