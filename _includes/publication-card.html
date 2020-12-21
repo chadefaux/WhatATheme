@@ -1,3 +1,11 @@
+<style>
+  img.one {
+    height: auto;
+    width: auto;
+  }
+</style>
+
+
 <br>
 {% for project in site.data.research %}
 <div class="columns has-text-centered" id="blog-card">
@@ -6,7 +14,7 @@
   <div class="column  is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
   id="project-card">
   <a href="{{project.link}}" target="_blank">
-    <div class="image is-16by9"  style="height: 100%; background-image: url({{project.image}});">
+    <div class="img class="one" is-16by9" width="300" height = "500"  style="height: 100%; background-image: url({{project.image}});">
     </a>
   </div>
 </div>
