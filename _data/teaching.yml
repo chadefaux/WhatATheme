@@ -9,16 +9,16 @@
 - name: Quantitative Methods I
   level: PhD
   code: "PO 7001"
-  link: PO7001_2020_index.html
+  link: "PO7001_2020_index.html"
 
 - name: Contemporary International Relations
   code: PO4700
   level: undergraduate
-  link: PO4700_lectures.html
+  link: "PO4700_lectures.html"
      
 - name: Quantitative Methods II
   code: PO7005
   link: "https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0"
   
 - name: "Brown in Dublin: Contemporary Global Politics"
-  link: brownInDublin_lectures.html
+  link: "brownInDublin_lectures.html"
