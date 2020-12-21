@@ -1,24 +1,24 @@
-- name: bjps2020
-  link: 
-  title: "What the enemy knows: Common and the rationality of war"
-  author: Thomas Chadefaux
-  year: 2020
-  journal: British Journal of Political Science
-  volume: 50
-  number: 4
-  pages: "pp. 1593-1607"
-  content: 
-  image: assets/images/bjpsChadefaux.png
-  description: 
-- name: II2019
-  link: "https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1554571"
-  title: "Nowhere to go? Why do some civil wars generate more refugees than others?"
-  author: Turkoglu, O. and Chadefaux, T.
-  year: 2019
-  journal: International Interactions
-  volume: 45
-  number: 2
-  pages: "pp. 401-420"
-  content: 
-  image: assets/images/ii.png
-  description: 
+- name: Research Methods for Political Science A
+  code: POU33011 
+  level: Undergraduate
+  
+- name: "Capstone: Forecasting Conflict""
+  code: POU4400
+  level: Undergraduate
+
+- name: Quantitative Methods I
+  level: PhD
+  code: PO 7001
+  link: PO7001_2020_index.html
+
+- name: Contemporary International Relations
+  code: PO4700
+  level: undergraduate
+  link: PO4700_lectures.html
+     
+- name: Quantitative Methods II
+  code: PO7005
+  link: "https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0"
+  
+- name: "Brown in Dublin: Contemporary Global Politics"
+  link: brownInDublin_lectures.html
