@@ -9,6 +9,7 @@
   level: Undergraduate
   image: assets/images/capstone.png
   description: 
+  link: "capstone"
 - name: Quantitative Methods I
   level: PhD
   code: "PO 7001"
