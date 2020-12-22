@@ -14,12 +14,13 @@
   level: PhD
   code: "PO 7001"
   link: "teaching/PO7001"
-  image:
+  image: assets/images/statistics.png
   description: 
 - name: Quantitative Methods II
   code: PO7005
   link: "https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0"
   description:
+  image: assets/images/regression.png
 - name: Contemporary International Relations
   code: PO4700
   level: undergraduate
