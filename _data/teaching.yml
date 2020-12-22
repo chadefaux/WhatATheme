@@ -33,3 +33,16 @@
   link: "teaching/brownInDublin"
   image: assets/images/brownInDublin.jpeg
   description: 
+  
+- name: Modeling Social Processes (ETH Zurich)
+  link: "http://www.soms.ethz.ch/teaching/ModelingSpring2013/"
+
+- name: Domestic Politics and International Relations (University of Rochester)
+  code: IR 224
+- name: Peace and War (University of Rochester)
+  code: IR 227
+- name: Preventive Wars (University of Rochester)
+  code: IR 222
+- name: International Negotiations (University of Rochester)
+  code: IR 225
+
