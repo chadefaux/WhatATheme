@@ -6,9 +6,9 @@ title: Projects
 
 # Patterns of Conflict Escalation (PaCE)
 
-<div float="center">
-  <img src="assets/images/paceLogo.png" width="250" class = "center" float = 'center'/> 
-  <img src="assets/images/ercLogo.jpg" width="250" class = "center" float = 'center' />
+<div float="center" width="500px">
+  <img src="assets/images/paceLogo.png" width="150" class = "center" float = 'center'/> 
+  <img src="assets/images/ercLogo.jpg" width="150" class = "center" float = 'center' />
 </div>
 
 ### What is PaCE?
