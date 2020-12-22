@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-<img src="assets/images/agincourt.jpg"
+<img src="assets/images/agincourt.jpg">
 # PaCE: Patterns of Conflict Escalation
 
 ## What is PaCE?
