@@ -3,7 +3,7 @@ title: "Capstone - Forecasting Conflict"
 layout: page
 ---
 
-# [Syllabus](../assets/files/teaching/Capstone/syllabus_capstoneForecasting)
+# [Syllabus](../assets/files/teaching/Capstone/syllabus_capstoneForecasting.pdf)
 
 
 # Lectures
