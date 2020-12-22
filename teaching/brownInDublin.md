@@ -6,6 +6,9 @@ subtitle: "(week 2: topics in International Security)"
 <br>
 <br>
 
+# [Syllabus]()
+
+# Lectures
 ### Monday: War in our Genes
 
 [Handout](../assets/files/teaching/BrownInDublin/War_in_our_Genes_handout.html)
