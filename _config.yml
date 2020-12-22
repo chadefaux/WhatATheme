@@ -12,10 +12,9 @@ title: Thomas Chadefaux
 description: ""
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/agincourt.jpg #meta.jpg
-
 site-cv: /WhatATheme/assets/images/cv.pdf #meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: chadefaux
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -38,10 +37,11 @@ github_username:  chadefa1
 #spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics: 
+#UA-163806439-1
 
 # Disqus
-disqus-shortname: chadefaux
+#disqus-shortname: chadefaux
 
 # Name of the Author
 author-name: Thomas Chadefaux
