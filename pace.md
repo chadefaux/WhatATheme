@@ -1,8 +1,3 @@
----
-layout: default
-title: Projects
----
-
 # PaCE: Patterns of Conflict Escalation
 
 ## What is PaCE?
