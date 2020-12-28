@@ -41,6 +41,7 @@
   
 - name: Modeling Social Processes
   link: ""
+  image: assets/images/eth.jpg
   location: ETH Zurich
   description: Undergraduate Lecture
 
@@ -50,20 +51,24 @@
   link: "http://www.thomaschadefaux.com/files/syllabi/SyllabusDomesticPol_IR.pdf"
   location: University of Rochester
   description: Undergraduate Lecture
+  image: assets/images/rochester.jpg
 - name: Peace and War
   code: IR 227
   date: 
   location: University of Rochester
+  image: assets/images/rochester.jpg
   link: "http://www.thomaschadefaux.com/files/syllabi/SyllabusPeaceAndWar.pdf"
   description: Undergraduate Lecture
 - name: Preventive Wars
   code: IR 222
   date: 
   location: University of Rochester
+  image: assets/images/rochester.jpg
   link: "http://www.thomaschadefaux.com/files/syllabi/SyllabusPreventiveWars.pdf"
   description: Undergraduate Lecture
 - name: International Negotiations
   code: IR 225
+  image: assets/images/rochester.jpg
   date: 
   link: "http://www.thomaschadefaux.com/files/syllabi/SyllabusNegotiations.pdf"
   location: University of Rochester
